@@ -18,7 +18,7 @@ Customer review data for Britis Airways was collected from Skytrax.
 
 Following insights were uncovered as they are summed up in the one slide presentation.
 
-<img src="https://github.com/shubhamgogri/British-Airways-virtual-experience-/blob/main/Task1/all%20graphs/all%20-rat.png" name="image-name">
+<img src="https://github.com/shubhamgogri/British-Airways-virtual-experience-/blob/main/Task1/presentation/Slide2.PNG" name="image-name">
 
 **Task 2 - Predicting customer buying behaviour**
 
@@ -26,4 +26,4 @@ Customers are more empowered than ever because they have access to a wealth of i
 
 This task involves building a high quality predictive to predict the successful bookings using customer bookings data.
 
-<img src="https://github.com/shubhamgogri/British-Airways-virtual-experience-/blob/main/Task1/all%20graphs/all%20-rat.png" name="image-name">
+<img src="https://github.com/shubhamgogri/British-Airways-virtual-experience-/blob/main/Task2/presentation/Slide2.PNG" name="image-name">
