@@ -15,17 +15,12 @@ This first task is focused on scraping and collecting customer feedback and revi
 Customer review data for Britis Airways was collected from Skytrax.
 
 Following insights were uncovered as they are summed up in the one slide presentation.
-<details>
-  <summary>The title of the image group</summary><details>
-  <img src="https://github.com/shubhamgogri/British-Airways-virtual-experience-/blob/main/Task1/all%20graphs/all%20-rat.png" name="image-name">
-</details>
+
+<img src="https://github.com/shubhamgogri/British-Airways-virtual-experience-/blob/main/Task1/all%20graphs/all%20-rat.png" name="image-name">
+
 Task 2 - Predicting customer buying behaviour
 Customers are more empowered than ever because they have access to a wealth of information at their fingertips. This is one of the reasons the buying cycle is very different to what it used to be. Today, if you’re hoping that a customer purchases your flights or holidays as they come into the airport, you’ve already lost! Being reactive in this situation is not ideal; airlines must be proactive in order to acquire customers before they embark on their holiday.
 
 This task involves building a high quality predictive to predict the successful bookings using customer bookings data.
 
-
-<details>
-  <summary>The title of the image group</summary><details>
-  <img src="https://github.com/shubhamgogri/British-Airways-virtual-experience-/blob/main/Task1/all%20graphs/all%20-rat.png" name="image-name">
-</details>
+<img src="https://github.com/shubhamgogri/British-Airways-virtual-experience-/blob/main/Task1/all%20graphs/all%20-rat.png" name="image-name">
